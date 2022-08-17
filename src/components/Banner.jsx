@@ -6,7 +6,7 @@ const Banner = () => {
         <header style={{marginTop: '70px'}}>
          <div className="headerText">
          <div>
-         <h1>Eid ke rung apno ke sung</h1>
+         <h1>Style ki bat aaram ke sath</h1>
          <p>Enjoy online shopping</p>
          </div>
          </div>
