@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/assignment6/static/css/main.f7cfa264.css",
-    "main.js": "/assignment6/static/js/main.16a2eee1.js",
-    "static/js/787.50be7c98.chunk.js": "/assignment6/static/js/787.50be7c98.chunk.js",
-    "static/media/bbb.jpg": "/assignment6/static/media/bbb.2cf2b069fdd21a90977f.jpg",
-    "static/media/perfume.jpg": "/assignment6/static/media/perfume.4a8665f20a455dae7482.jpg",
-    "static/media/watch.jpg": "/assignment6/static/media/watch.80f2eae6953641f9e8f5.jpg",
-    "static/media/dslr.jpg": "/assignment6/static/media/dslr.a1516502d943fa90d601.jpg",
-    "static/media/microphone.jpg": "/assignment6/static/media/microphone.6a82ab39292219ab27cc.jpg",
-    "static/media/rings.jpg": "/assignment6/static/media/rings.6f9d579a129399f93951.jpg",
-    "static/media/iphone.jpg": "/assignment6/static/media/iphone.03c118a8289f65aa473f.jpg",
-    "static/media/shoes.jpg": "/assignment6/static/media/shoes.3be50997df53e26c37f2.jpg",
-    "index.html": "/assignment6/index.html",
-    "main.f7cfa264.css.map": "/assignment6/static/css/main.f7cfa264.css.map",
-    "main.16a2eee1.js.map": "/assignment6/static/js/main.16a2eee1.js.map",
-    "787.50be7c98.chunk.js.map": "/assignment6/static/js/787.50be7c98.chunk.js.map"
+    "main.css": "/static/css/main.17600be8.css",
+    "main.js": "/static/js/main.1b48f930.js",
+    "static/js/787.50be7c98.chunk.js": "/static/js/787.50be7c98.chunk.js",
+    "static/media/bbb.jpg": "/static/media/bbb.2cf2b069fdd21a90977f.jpg",
+    "static/media/perfume.jpg": "/static/media/perfume.4a8665f20a455dae7482.jpg",
+    "static/media/watch.jpg": "/static/media/watch.80f2eae6953641f9e8f5.jpg",
+    "static/media/dslr.jpg": "/static/media/dslr.a1516502d943fa90d601.jpg",
+    "static/media/microphone.jpg": "/static/media/microphone.6a82ab39292219ab27cc.jpg",
+    "static/media/rings.jpg": "/static/media/rings.6f9d579a129399f93951.jpg",
+    "static/media/iphone.jpg": "/static/media/iphone.03c118a8289f65aa473f.jpg",
+    "static/media/shoes.jpg": "/static/media/shoes.3be50997df53e26c37f2.jpg",
+    "index.html": "/index.html",
+    "main.17600be8.css.map": "/static/css/main.17600be8.css.map",
+    "main.1b48f930.js.map": "/static/js/main.1b48f930.js.map",
+    "787.50be7c98.chunk.js.map": "/static/js/787.50be7c98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7cfa264.css",
-    "static/js/main.16a2eee1.js"
+    "static/css/main.17600be8.css",
+    "static/js/main.1b48f930.js"
   ]
 }
