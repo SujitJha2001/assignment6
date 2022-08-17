@@ -29,7 +29,7 @@ function App() {
 					<Router>
 						<Navbar />
 						<Switch>
-							<Route path='/' exact component={Products} />
+							<Route path='/assignment6/' exact component={Products} />
 							<Route path='/cart' exact component={Cart} />
 						</Switch>
 					</Router>
